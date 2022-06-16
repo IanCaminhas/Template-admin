@@ -1,4 +1,4 @@
-import MenuLateral from "./MenuLiberal"
+import MenuLateral from "./MenuLateral"
 import Titulo from "./Titulo"
 
 interface CabecalhoProps {
